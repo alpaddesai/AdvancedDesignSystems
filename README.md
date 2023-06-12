@@ -9,3 +9,7 @@
 ![image](RFMicrowaveTransmissionTheory.png)
 
 ![image](Testing.png)
+
+![image](EthicsandExcellence.png)
+
+![image](USCopyrightCertificate.jpg)
