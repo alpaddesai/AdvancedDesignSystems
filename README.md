@@ -2,6 +2,8 @@
 
 ![image](ADSSystems.jpg)
 
+![image](RahsoftADScertificate.jpg)
+
 ![image](RFDesignTheory.png)
 
 ![image](RFFundamentalsConcepts.png)
